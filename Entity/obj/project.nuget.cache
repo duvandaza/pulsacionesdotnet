@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQ3foU2DAP/lWstL6HUmxuIVpq9jnhna936JXy3t5HDYD0QKaD2plf+0azen1hZByacEsd+uNwq+nFC7JylSUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enmod\\OneDrive\\Escritorio\\proyecto pulsaciones\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enmod\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\enmod\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
